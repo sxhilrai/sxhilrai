@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Rai</h1>
 <h3 align="center">A frontend developer looking for remote frontend interships.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxhilrai" alt="sxhilrai" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sxhilrai.netlify.app/](https://sxhilrai.netlify.app/)
 
 - 📫 How to reach me **sahilrai71576@gmail.com**
